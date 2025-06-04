@@ -4,12 +4,12 @@ Ce projet est une application web complète permettant de gérer les **commandes
 
 ## Technologies utilisées
 
-- 🎯 Frontend : **React.js**
-- ⚙️ Backend : **Node.js + Express**
-- 🐳 Conteneurisation : **Docker & Docker Compose**
-- 🌐 Test des API : **Postman**
+-  Frontend : **React.js**
+-  Backend : **Node.js + Express**
+-  Conteneurisation : **Docker & Docker Compose**
+-  Test des API : **Postman**
 
-## 📁 Structure du projet
+##  Structure du projet
 PizzaTech/
 ├── backend/ # API Express avec routes (commandes, utilisateurs, pizzas)
 ├── frontend/ # Application React avec formulaire de gestion
